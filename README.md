@@ -1,1 +1,1 @@
-![BANNER] (cover.png)
+![BANNER!] (cover.png)
